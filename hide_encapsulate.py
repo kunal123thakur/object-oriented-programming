@@ -22,3 +22,5 @@ print(account.dalo(200))
 print(account.balance())
 print(account.nikalo(30))
 print(account.balance())
+# account._balance = 999999 
+# print(account.balance())
